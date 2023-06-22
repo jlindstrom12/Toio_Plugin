@@ -3,8 +3,8 @@ layout: plugin
     
 id: slicer
 title: Full-featured Slicer
-description: A full-blown GUI-based slicer. Rotate and scale model; slice multiple STL files at a time; set layer height and other slicing settings.
-author: Kenneth Jiang
+description: GUI for TOIO Management
+author: Jonathan Lindstrom
 license: AGPLv3
     
 # today's date in format YYYY-MM-DD, e.g.

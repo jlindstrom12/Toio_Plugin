@@ -1,7 +1,7 @@
 {
-  "name": "OctoPrint-Slicer",
-  "description": "OctoPrint-Slicer",
-  "author": "Kenneth Jiang <kenneth.jiang@gmail.com>",
+  "name": "Toio-Control",
+  "description": "Plugin to control TOIO",
+  "author": "Jonathan Lindstrom <jmlindstrom2@gmail.com>",
   "license": "MIT",
   "main": "octoprint_slicer/static/js/octoprint_slicer.min.js",
   "scripts": {

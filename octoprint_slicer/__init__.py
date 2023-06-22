@@ -73,17 +73,17 @@ class SlicerPlugin(octoprint.plugin.SettingsPlugin,
 		# for details.
 		return dict(
 			slicer=dict(
-				displayName="Slicer",
+				displayName="Toio-Control",
 				displayVersion=self._plugin_version,
 
 				# version check: github repository
 				type="github_release",
-				user="kennethjiang",
-				repo="OctoPrint-Slicer",
+				user="jlindstrom12",
+				repo="Toio_Plugin",
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/kennethjiang/OctoPrint-Slicer/archive/{target_version}.zip"
+				pip="pip install https://github.com/jlindstrom12/Toio_Plugin/archive/master.zip"
 			)
 		)
 
